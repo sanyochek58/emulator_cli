@@ -87,8 +87,6 @@ exit - прерывание работы эмулятора
 
 Работа с эмулятором : 
 
-![Image alt1](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_000532.png)
-
 ![Image alt2](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-31_025329.png)
 
 ![Image alt3](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-31_031559.png)
@@ -100,6 +98,13 @@ exit - прерывание работы эмулятора
 ![Image alt6](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-31_031743.png)
 
 ![Image alt7](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-31_031810.png)
+
+
+Тесты программы :
+
+
+
+
 
 
 
