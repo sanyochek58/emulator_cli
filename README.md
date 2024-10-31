@@ -40,20 +40,20 @@ exit - прерывание работы эмулятора
 
 Работа с эмулятором : 
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_000532.png)
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_025329.png)
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031559.png)
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031616.png)
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031707.png)
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031707.png)
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031743.png)
 
-[]
+![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031810.png)
 
 
