@@ -40,28 +40,28 @@ exit - прерывание работы эмулятора
 
 Работа с эмулятором : 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_000532.png)
+![Image alt1](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_000532.png)
 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_025329.png)
+![Image alt2](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_025329.png)
 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031559.png)
+![Image alt3](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031559.png)
 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031616.png)
+![Image alt4](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031616.png)
 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031707.png)
+![Image alt5](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031707.png)
 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031707.png)
+![Image alt6](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031707.png)
 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031743.png)
+![Image alt7](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031743.png)
 
 
-![Image alt](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031810.png)
+![Image alt8](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_031810.png)
 
 
 
