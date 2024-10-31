@@ -105,9 +105,11 @@ exit - прерывание работы эмулятора
 
 ![Image alt1](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Снимок%20экрана%202024-10-31%20в%2011.40.18.png)
 
+
 Оперируем с тестовым файлом и проводим проверку:
 
-![Image alt8]()
+
+![Image alt8](https://github.com/sanyochek58/emulator_cli/blob/main/pics/Snimok_ekrana_2024-10-24_000532.png)
 
 
 
