@@ -1,5 +1,7 @@
 Проект command_line
 
+https://github.com/sanyochek58/emulator_cli
+
 Задание:
 
 Разработать эмулятор для языка оболочки ОС. Необходимо сделать работу
